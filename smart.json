@@ -1,0 +1,9 @@
+{
+  "name": "URLify",
+  "description": "Django's URLify.js file, repackaged for Meteor.",
+  "homepage": "https://github.com/audreyr/meteor-urlify",
+  "author": "Audrey Roy (http://audreymroy.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/audreyr/meteor-urlify.git",
+  "packages": {}
+}
